@@ -1,2 +1,2 @@
 
-Api dokumentation [read here](https://sportiba.github.io/?https://github.com/Sportiba/sp-api-doc/index.html)
+Api dokumentation [read here](https://sportiba.github.io/?https://sportiba.github.io/sp-api-doc/index.html)
