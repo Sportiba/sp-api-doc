@@ -1,2 +1,10 @@
+## Build
+Install NPM dependencies blobaly
+```
+npm i -g raml2html
+```
 
-Api dokumentation [read here](https://sportiba.github.io/?https://sportiba.github.io/sp-api-doc/index.html)
+Run command from root dir 
+```
+raml2html api.raml > index.html
+```
