@@ -1,0 +1,19 @@
+#%RAML 1.0
+title: Sportiba api
+baseUri: https://www.sportiba:3000/api
+version: 1.0
+
+/categories:
+  displayName: Categories
+  get:
+    description: Return tree of categories
+    queryParameters:
+      catId:
+        type: string
+        description: Id of category
+    responses:
+        200:
+          body:
+            application/json:
+              example: |
+                { "message": "The song has been properly entered" }
